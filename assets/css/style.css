@@ -83,6 +83,57 @@ nav
 	display: none;
 	color: #FFFFFF;
 }
+.summary {
+	width: 90%;
+    padding: 5%;
+    text-align: center;
+
+}
+.summary h2 
+{
+	padding-bottom: 2%;
+}
+.summary .summary-block
+{
+	padding-bottom: 2%;
+}
+.about-block
+{
+	width: 79%;
+	float: left;
+	padding-left: 1%;
+}
+.about-image
+{
+	width: 20%; 
+	float: left;
+}
+.about-me {
+    padding: 0% 8%;
+}
+.about-block p 
+{
+    padding-top: 3%;
+    font-size: 13px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 /** MEDİA QUERYS */
 
 
