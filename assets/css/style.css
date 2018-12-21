@@ -107,6 +107,7 @@ nav
 {
 	width: 20%; 
 	float: left;
+	opacity: 0.6;
 }
 .about-me {
     padding: 0% 8%;
@@ -115,10 +116,30 @@ nav
 {
     padding-top: 3%;
     font-size: 13px;
+    padding-bottom: 2%;
 }
-
-
-
+.about-block h2
+{
+	color: #d00202;
+	opacity: 0.6;
+}
+.about-block span
+{
+	color: #a55050;
+	opacity: 0.6;
+}
+.about-block a
+{
+	background: red;
+    border-radius: 15px;
+    padding: 10px 40px 10px 40px;
+    color: white;
+    text-decoration: none;
+}
+.about-image:hover
+{
+	opacity: 1;
+}
 
 
 
@@ -187,4 +208,5 @@ nav {
     font-size: 2em;
     left: 40%;
 }
+
 }
